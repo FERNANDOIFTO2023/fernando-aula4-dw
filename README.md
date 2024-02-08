@@ -24,11 +24,11 @@
 
 <U> ***DICA BÔNUS*** 
 
-# Para facilitar sua vida como no Desenvolvimento Web, cada vez que vc for "abrir" um arquivo que esteja sendo realizado por duas pessoas ou mais, vá no GitHub_Desktop > Repository > *Pull*, O Pull faz com que todos os commit's salvos remotamente por outras pessoas seja direcionado para a sua máquina local para que você trabalhe na _"versão"_ do seu projeto em grupo o mais _"atualizado"_ possível. Fazendo assim que seja mais organizado.
+<br> Para facilitar sua vida como no Desenvolvimento Web, cada vez que vc for "abrir" um arquivo que esteja sendo realizado por duas pessoas ou mais, vá no GitHub_Desktop > Repository > *Pull*, O Pull faz com que todos os commit's salvos remotamente por outras pessoas seja direcionado para a sua máquina local para que você trabalhe na _"versão"_ do seu projeto em grupo o mais _"atualizado"_ possível. Fazendo assim que seja mais organizado.
 
 # ***Segunda aula 08/02/2024*** #
 
-<U> PARA CRIAR UM BRANCH
+- **CRIAR BRANCH**
 
 <br> 1° passo: Abra o GitHub Desktop e navegue até o repositório local que você deseja trabalhar.
 
@@ -38,7 +38,7 @@
 
 <br> 4° passo:Digite um nome para o novo branch e clique em "Criar branch".
 
-<U> MESCLAR BRANCH
+- **MESCLAR BRANCH** 
 
 <br> 6° passo:Na barra de status, clique no nome do branch que você deseja mesclar.
 
@@ -50,7 +50,7 @@
 
 <br> 9° passo:Clique em "Mesclar branch".
 
-<U> EXCLUIR BRANCH 
+- **EXCLUIR BRANCH**
 
 <br> 10° passo:Na barra de status, clique no nome do branch que você deseja excluir.
 
