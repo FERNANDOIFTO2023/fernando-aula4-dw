@@ -32,28 +32,28 @@
 
 <br> 1° passo: Abra o GitHub Desktop e navegue até o repositório local que você deseja trabalhar.
 
-<br> 2° passo:Na barra de status, clique no nome do branch atual.
+<br> 2° passo: Na barra de status, clique no nome do branch atual.
 
-<br> 3° passo:No menu suspenso, selecione "Novo branch".
+<br> 3° passo: No menu suspenso, selecione "Novo branch".
 
-<br> 4° passo:Digite um nome para o novo branch e clique em "Criar branch".
+<br> 4° passo: Digite um nome para o novo branch e clique em "Criar branch".
 
 - **MESCLAR BRANCH** 
 
-<br> 6° passo:Na barra de status, clique no nome do branch que você deseja mesclar.
+<br> 6° passo: Na barra de status, clique no nome do branch que você deseja mesclar.
 
-<br> 7° passo:No menu suspenso, selecione "Mesclar branch...".
+<br> 7° passo: No menu suspenso, selecione "Mesclar branch...".
 
-<br> 8° passo:Selecione o branch que você deseja mesclar com o branch atual.
+<br> 8° passo: Selecione o branch que você deseja mesclar com o branch atual.
 
-<br> 8.1° passo:Se houver conflitos de mesclagem, você precisará resolvê-los manualmente antes de concluir a mesclagem.
+<br> 8.1° passo: Se houver conflitos de mesclagem, você precisará resolvê-los manualmente antes de concluir a mesclagem.
 
-<br> 9° passo:Clique em "Mesclar branch".
+<br> 9° passo: Clique em "Mesclar branch".
 
 - **EXCLUIR BRANCH**
 
-<br> 10° passo:Na barra de status, clique no nome do branch que você deseja excluir.
+<br> 10° passo: Na barra de status, clique no nome do branch que você deseja excluir.
 
-<br> 11° passo:No menu suspenso, selecione "Excluir branch...".
+<br> 11° passo: No menu suspenso, selecione "Excluir branch...".
 
-<br> 12° passo:Confirme que você deseja excluir o branch e clique em "Excluir".
+<br> 12° passo: Confirme que você deseja excluir o branch e clique em "Excluir".
